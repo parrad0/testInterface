@@ -1,0 +1,15 @@
+{
+"workbench.colorTheme": "Monokai Classic",
+  "workbench.iconTheme": "Monokai Classic Icons",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": [
+      "source.formatDocument",
+      "source.fixAll.eslint"
+  ],
+  "window.zoomLevel": 1,
+  "explorer.confirmDelete": false,
+  "git.confirmSync": false,
+  "git.autofetch": true
+  }
+  
